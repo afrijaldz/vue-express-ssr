@@ -25,7 +25,7 @@ export function createApp() {
               Hello, <span class="font-bold">{{ result }}</span>
               <div>Don't forget to smile, Have a nice day !</div>
             </div>
-          <div>
+          </div>
         </div>
       </div>
     `,
